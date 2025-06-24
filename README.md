@@ -2,7 +2,9 @@
 A beginner-friendly machine learning project that classifies text messages as spam or not spam (ham) using Natural Language Processing (NLP) techniques and a Naive Bayes classifier.
 
 Accuracy: 0.97
+
 Classification Report:
+
               precision    recall  f1-score   support
 
          ham       0.98      1.00      0.99       965
