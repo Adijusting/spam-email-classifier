@@ -35,10 +35,12 @@ Contains 5,574 messages labeled as either `spam` or `ham`
 
 # To run:
 git clone https://github.com/yourusername/spam-email-classifier.git
+
 cd spam-email-classifier
 
 This project is for educational purpose only
 
 # Author
 Aditya Deshpande
+
 LinkedIn: www.linkedin.com/in/aditya-deshpande-5b120b305
